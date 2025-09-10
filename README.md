@@ -5,4 +5,4 @@
 Ссылка на первый кейс - https://drive.google.com/file/d/1HWaRedvkbQalo8pPOMsPjrVjneKKw1gQ/view?usp=sharing
 
 # Победа на хакатоне в ЕКБ в УрФУ
-- ![Диплом хакатона УрФУ](images/dano_urfu_diplom.jpg)
+![Диплом хакатона УрФУ](images/dano_urfu_diplom.jpg)
