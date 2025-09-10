@@ -1,0 +1,1 @@
+https://drive.google.com/file/d/1HWaRedvkbQalo8pPOMsPjrVjneKKw1gQ/view?usp=sharing - ссылка на 1 кейс
